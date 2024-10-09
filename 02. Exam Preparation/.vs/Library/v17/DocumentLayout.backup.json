@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\OMEN\\Desktop\\Programming\\SoftUni\\ASP.NET Fundamentals\\02. Exam Preparation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB937EE-DFC2-4364-B396-3C81434776EC}|Library\\Library.csproj|c:\\users\\omen\\desktop\\programming\\softuni\\asp.net fundamentals\\02. exam preparation\\library\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB937EE-DFC2-4364-B396-3C81434776EC}|Library\\Library.csproj|solutionrelative:library\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB937EE-DFC2-4364-B396-3C81434776EC}|Library\\Library.csproj|c:\\users\\omen\\desktop\\programming\\softuni\\asp.net fundamentals\\02. exam preparation\\library\\contracts\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB937EE-DFC2-4364-B396-3C81434776EC}|Library\\Library.csproj|solutionrelative:library\\contracts\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB937EE-DFC2-4364-B396-3C81434776EC}|Library\\Library.csproj|c:\\users\\omen\\desktop\\programming\\softuni\\asp.net fundamentals\\02. exam preparation\\library\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB937EE-DFC2-4364-B396-3C81434776EC}|Library\\Library.csproj|solutionrelative:library\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB937EE-DFC2-4364-B396-3C81434776EC}|Library\\Library.csproj|c:\\users\\omen\\desktop\\programming\\softuni\\asp.net fundamentals\\02. exam preparation\\library\\models\\addbookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB937EE-DFC2-4364-B396-3C81434776EC}|Library\\Library.csproj|solutionrelative:library\\models\\addbookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FB937EE-DFC2-4364-B396-3C81434776EC}|Library\\Library.csproj|c:\\users\\omen\\desktop\\programming\\softuni\\asp.net fundamentals\\02. exam preparation\\library\\data\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FB937EE-DFC2-4364-B396-3C81434776EC}|Library\\Library.csproj|solutionrelative:library\\data\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddBookViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\OMEN\\Desktop\\Programming\\SoftUni\\ASP.NET Fundamentals\\02. Exam Preparation\\Library\\Models\\AddBookViewModel.cs",
+              "RelativeDocumentMoniker": "Library\\Models\\AddBookViewModel.cs",
+              "ToolTip": "C:\\Users\\OMEN\\Desktop\\Programming\\SoftUni\\ASP.NET Fundamentals\\02. Exam Preparation\\Library\\Models\\AddBookViewModel.cs",
+              "RelativeToolTip": "Library\\Models\\AddBookViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:46:25.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\OMEN\\Desktop\\Programming\\SoftUni\\ASP.NET Fundamentals\\02. Exam Preparation\\Library\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Library\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\OMEN\\Desktop\\Programming\\SoftUni\\ASP.NET Fundamentals\\02. Exam Preparation\\Library\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Library\\Controllers\\BookController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAiwFcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T14:46:34.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\OMEN\\Desktop\\Programming\\SoftUni\\ASP.NET Fundamentals\\02. Exam Preparation\\Library\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "Library\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\OMEN\\Desktop\\Programming\\SoftUni\\ASP.NET Fundamentals\\02. Exam Preparation\\Library\\Services\\BookService.cs",
+              "RelativeToolTip": "Library\\Services\\BookService.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAuwHsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:20:46.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\OMEN\\Desktop\\Programming\\SoftUni\\ASP.NET Fundamentals\\02. Exam Preparation\\Library\\Contracts\\IBookService.cs",
+              "RelativeDocumentMoniker": "Library\\Contracts\\IBookService.cs",
+              "ToolTip": "C:\\Users\\OMEN\\Desktop\\Programming\\SoftUni\\ASP.NET Fundamentals\\02. Exam Preparation\\Library\\Contracts\\IBookService.cs",
+              "RelativeToolTip": "Library\\Contracts\\IBookService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAlwA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:09:28.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LibraryDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\OMEN\\Desktop\\Programming\\SoftUni\\ASP.NET Fundamentals\\02. Exam Preparation\\Library\\Data\\LibraryDbContext.cs",
+              "RelativeDocumentMoniker": "Library\\Data\\LibraryDbContext.cs",
+              "ToolTip": "C:\\Users\\OMEN\\Desktop\\Programming\\SoftUni\\ASP.NET Fundamentals\\02. Exam Preparation\\Library\\Data\\LibraryDbContext.cs",
+              "RelativeToolTip": "Library\\Data\\LibraryDbContext.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAYwCUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T14:19:50.245Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
